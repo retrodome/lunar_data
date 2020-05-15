@@ -1,11 +1,11 @@
+
+## About
+
 lunar_data backups for Project Lunar on the SEGA GENESIS / MEGA DRIVE
 
 Lost your SEGA MINI BACKUP? Download it here!
 
-## About
-
-You'll find a few files at the link below, so which one should you download?
-Well that depends on your systems region.
+So which one should you download? Well that depends on your systems region (EU=030, US=031, JP=032).
 
 **MOON-mass-moon-es1-v0.8.3-1085JP**
 
