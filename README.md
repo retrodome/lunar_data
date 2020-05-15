@@ -38,7 +38,7 @@ Extract the backup from the zip file. Each backup contains 10 files.
 
 Copy all of the extracted files to your luna_data folder. Make sure to change the final folder: 030 to match your console's region.
 
-*C:\Users\user\AppData\Local\ModMyClassic\Project Lunar Desktop UI\lunar_data\Backup\030\*
+*C:\Users\user\AppData\Local\ModMyClassic\Project Lunar Desktop UI\lunar_data\Backup\030\\*
 
 Finally, keep a backup of these files somewhere safe, as they can easily be overwritten or deleted if you're not careful.
 
