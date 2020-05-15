@@ -21,11 +21,11 @@ Well that depends on your systems region.
 
 ## How to:
 
-### Step 1
+#### Step 1
 
 Download one of the appropriate backups from above, ensure it correctly matches your consoles region.
 
-### Step 2
+#### Step 2
 
 Extract the backup from the zip file. Each backup contains 10 files.
 
@@ -34,7 +34,7 @@ Extract the backup from the zip file. Each backup contains 10 files.
 - m2engage
 - And 7 .gz compressed files. Do not extract these, they must be left as is.
 
-### Step 3
+#### Step 3
 
 Copy all of the extracted files to your luna_data folder. Make sure to change the final folder: 030 to match your console's region.
 
@@ -42,7 +42,7 @@ Copy all of the extracted files to your luna_data folder. Make sure to change th
 
 Finally, keep a backup of these files somewhere safe, as they can easily be overwritten or deleted if you're not careful.
 
-### Step 4
+#### Step 4
 
 Launch Project Lunar and attempt to uninstall it. It will likely error about the backup files still being missing. But it will show you the file name it is expecting to find. Rename all the .gz compressed backups to match this filename and you should be good to go!
 
