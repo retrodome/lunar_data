@@ -23,7 +23,7 @@ So which one should you download? Well that depends on your systems region (JP=0
 
 **MOON-mass-moon-es1-v0.8.3-1085AS**
 
-**[033.zip](https://mega.nz/file/Em5nUaTQ#uZtTxLpSEWN-VrjUtIxm-ZBJcKxt8sX3NQXhh6amnDo)**: A lunar_data backup from a SEGA MEGA DRIVE from Asia.
+**[033.zip](https://mega.nz/file/oqg1yQrL#41c2B-krBxRHEwx1Ei5RvFPYNkD3OOfyEDeJkkFBdWE)**: A lunar_data backup from a SEGA MEGA DRIVE from Asia.
 
 ## How to:
 
@@ -42,9 +42,9 @@ Extract the backup from the zip file. Each backup contains 10 files.
 
 #### Step 3
 
-Copy all of the extracted files to your luna_data folder. Make sure to change the final folder: 030 to match your console's region.
+Copy all of the extracted files to your luna_data folder. Make sure to change the final folder: 0?0 to match your console's region.
 
-*C:\Users\user\AppData\Local\ModMyClassic\Project Lunar Desktop UI\lunar_data\Backup\030\\*
+*C:\Users\user\AppData\Local\ModMyClassic\Project Lunar Desktop UI\lunar_data\Backup\0?0\\*
 
 Finally, keep a backup of these files somewhere safe, as they can easily be overwritten or deleted if you're not careful.
 
