@@ -1,11 +1,11 @@
 
 ## About
 
-lunar_data backups for Project Lunar on the SEGA GENESIS / MEGA DRIVE
+lunar_data backups for Project Lunar on the SEGA GENESIS Mini / MEGA DRIVE Mini
 
 Lost your SEGA MINI BACKUP? Download it here!
 
-So which one should you download? Well that depends on your systems region (EU=032, US=031, JP=030).
+So which one should you download? Well that depends on your systems region (JP=030.zip, US=031.zip, EU=032.zip, AS=033.zip).
 
 ## Download
 
