@@ -5,25 +5,25 @@ lunar_data backups for Project Lunar on the SEGA GENESIS Mini / MEGA DRIVE Mini
 
 Lost your SEGA MINI BACKUP? Download it here!
 
-So which one should you download? Well that depends on your systems region (JP=030.zip, US=031.zip, EU=032.zip, AS=033.zip).
+So which one should you download? Well that depends on your systems region (JP=030, US=031, EU=032, AS=033), or the region you want to change it to.
 
 ## Download
 
 **MOON-mass-moon-es1-v0.8.3-1085JP**
 
-**[030.zip](https://mega.nz/file/ligAnLCQ#mU8wSJswZhRdn9ycvND5hgu-XoYcuKplHeTsMochYu8)**: A lunar_data backup from a SEGA MEGA DRIVE from Japan.
+**[030(JP).zip](https://mega.nz/file/kzIlHSKI#bxQhnlPfkwaoZGn2EbLhEQJz4VWqEw2bPuFfYbeuPxk)**: A lunar_data backup from a SEGA MEGA DRIVE from Japan.
 
 **MOON-mass-moon-es1-v0.8.3-1080US**
 
-**[031.zip](https://mega.nz/file/0rhymBBC#ZCsEtr7m7z-R0DZhRrpz88mUcOZ7NpXqlJzK3yPksIE)**: A lunar_data backup from a SEGA GENESIS from North America.
+**[031(US).zip](https://mega.nz/file/0rhymBBC#ZCsEtr7m7z-R0DZhRrpz88mUcOZ7NpXqlJzK3yPksIE)**: A lunar_data backup from a SEGA GENESIS from North America.
 
 **MOON-mass-moon-es1-v0.8.3-1085EU**
 
-**[032.zip](https://mega.nz/file/4uhSzBLZ#r5qp-23Z5eIfaSVDLNtzIyUoLhqnhPROT1XUhuAvRPs)**: A lunar_data backup from a SEGA MEGA DRIVE from Europe.
+**[032(EU).zip](https://mega.nz/file/RyBUCRZL#XdM28w2Uvuu_TjlJf01y8VmCl-OxG3JpGlC4J9G0DUk)**: A lunar_data backup from a SEGA MEGA DRIVE from Europe.
 
 **MOON-mass-moon-es1-v0.8.3-1085AS**
 
-**[033.zip](https://mega.nz/file/oqg1yQrL#41c2B-krBxRHEwx1Ei5RvFPYNkD3OOfyEDeJkkFBdWE)**: A lunar_data backup from a SEGA MEGA DRIVE from Asia.
+**[033(AS).zip](https://mega.nz/file/oqg1yQrL#41c2B-krBxRHEwx1Ei5RvFPYNkD3OOfyEDeJkkFBdWE)**: A lunar_data backup from a SEGA MEGA DRIVE from Asia.
 
 ## How to:
 
