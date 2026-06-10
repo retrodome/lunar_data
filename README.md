@@ -19,7 +19,9 @@ So which one should you download? Well that depends on your systems region (JP=0
 
 **MOON-mass-moon-es1-v0.8.3-1085EU**
 
-**[032(EU).zip](https://mega.nz/file/RyBUCRZL#XdM28w2Uvuu_TjlJf01y8VmCl-OxG3JpGlC4J9G0DUk)**: A lunar_data backup from a SEGA MEGA DRIVE from Europe.
+**[032(EU).zip]()**: A lunar_data backup from a SEGA MEGA DRIVE from Europe. 
+This firmware is currently missing, the one in the files is actually Japanese. I will do my best to get a EU firmware uploaded soon for those that need it.
+
 
 **MOON-mass-moon-es1-v0.8.3-1085AS**
 
