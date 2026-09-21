@@ -19,9 +19,9 @@ So which one should you download? Well that depends on your systems region (JP=0
 
 **MOON-mass-moon-es1-v0.8.3-1085EU**
 
-**032(EU).zip**: A lunar_data backup from a SEGA MEGA DRIVE from Europe. 
+**[032(EU).zip](https://mega.nz/file/9n5T3aQS#udS9FU6B-IMYsyeGjDkzPkl8BfVYMmbYEfhEpQNwZsk)**: A lunar_data backup from a SEGA MEGA DRIVE from Europe. 
 
-This firmware is currently missing, the one in the files is actually Japanese. I will do my best to get a EU firmware uploaded soon for those that need it.
+FIXED! EU FIRMWARE NOW AVAILABLE!
 
 
 **MOON-mass-moon-es1-v0.8.3-1085AS**
@@ -47,7 +47,7 @@ Extract the backup from the zip file. Each backup contains 10 files.
 
 Copy all of the extracted files to your luna_data folder. Make sure to change the final folder: 0?0 to match your console's region.
 
-*C:\Users\user\AppData\Local\ModMyClassic\Project Lunar Desktop UI\lunar_data\Backup\0?0\\*
+Example - *C:\Users\user\AppData\Local\ModMyClassic\Project Lunar Desktop UI\lunar_data\Backup\032\\*
 
 Finally, keep a backup of these files somewhere safe, as they can easily be overwritten or deleted if you're not careful.
 
